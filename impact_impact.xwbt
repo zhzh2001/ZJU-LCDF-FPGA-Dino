@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=D:\src\ISE\Dino\impact.xsl
+OUTFILE=D:\src\ISE\Dino\impact.xsl
+FAMILY=Single
+PART=Single
+WORKINGDIR=D:\src\ISE\Dino
+LICENSE=iMPACT
+USER_INFO=iMPACT

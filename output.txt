@@ -1,0 +1,9 @@
+Storage Target: SPI Flash Single FPGA
+32M
+FF
+top
+D:/src/ISE/DinoDup
+
+MCS
+No
+

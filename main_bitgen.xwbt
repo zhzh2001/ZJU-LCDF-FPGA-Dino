@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\src\ISE\Dino\main.ncd
+OUTFILE=D:\src\ISE\Dino\main.bit
+FAMILY=Kintex7
+PART=xc7k160t-1ffg676
+WORKINGDIR=D:\src\ISE\Dino
+LICENSE=WebPack
+USER_INFO=__0_0_0
